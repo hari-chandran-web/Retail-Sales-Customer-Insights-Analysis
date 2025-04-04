@@ -78,7 +78,3 @@ The project includes various visualizations:
 - Heat maps for regional analysis
 - Scatter plots for discount impact
 - Interactive dashboards
-
-## 📝 License
-
-This project is licensed under the MIT License - see the LICENSE file for details. 
